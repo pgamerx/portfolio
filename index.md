@@ -34,30 +34,40 @@ Yes ofcourse, but remember that I am only willing to accept offers for [Backend 
   - #### DomeWork
 
     Discord's First powerful Homework-Bot.
-    Having a doubt? Can't solve a problem? Not sure about the answer?Well no problem! Just click the photo of your question and DomeWork will quickly find you the best possible answer for the same. It's being used by almost 100k users across 250+ servers.
+    Having a doubt? Can't solve a problem? Not sure about the answer?Well no problem! Just click the photo of your question and DomeWork will quickly find you the       best possible answer for the same. It's being used by almost 100k users across 250+ servers.     
+    
     [More information](https://dw.pgamerx.com)
 
   - #### Muser
-    A fully functional and dedicated Music bot supporting Youtube , Spotify , Facebook , Instagram , and 700+ other websites. Being used by almost 500k users in 700+ servers.
+    A fully functional and dedicated Music bot supporting Youtube , Spotify , Facebook , Instagram , and 700+ other websites. Being used by almost 500k users in         700+ servers.
+    
     [More information](https://top.gg/bot/763418289689985035)
 
   - #### Random Stuff API
-    This bot showcases the features of Random Stuff API which is a free-to-use API that can be used to get AI Response, jokes, memes, and much more.You can spice up your bots/products for free using Random Stuff API
+    This bot showcases the features of Random Stuff API which is a free-to-use API that can be used to get AI Response, jokes, memes, and much more.You can spice up     your bots/products for free using Random Stuff API
+    
     [More information](https://top.gg/bot/886928375833313290)
 
 - ### API(s) and Package(s)
     - #### Random Stuff Api 
-      Random Stuff API which is a free-to-use API that can be used to get AI Response, jokes, memes, and much more.You can spice up your bots/products for free using Random Stuff API
+      Random Stuff API which is a free-to-use API that can be used to get AI Response, jokes, memes, and much more.You can spice up your bots/products for free           using Random Stuff API
+      
       [More information](https://api.pgamerx.com)
+      
     - #### random-stuff-api (Might be outdated)
-       This is a javascript wrapper for Random Stuff API which is a free-to-use API that can be used to get AI Response, jokes, memes, and much more.You can spice up your bots/products for free using Random Stuff API
+       This is a javascript wrapper for Random Stuff API which is a free-to-use API that can be used to get AI Response, jokes, memes, and much more.You can spice          up your bots/products for free using Random Stuff API
+       
        [More information](https://www.npmjs.com/package/random-stuff-api)
+       
 - ### Twitter Bot(s)
     - #### @MemesBot69
-       This is a meme bot that posts the best memes from reddit every 30 minutes! This uses [Reddit's API](https://reddit.com) to fetch the memes, this has over 170 followers.
+       This is a meme bot that posts the best memes from reddit every 30 minutes! This uses [Reddit's API](https://reddit.com) to fetch the memes, this has over 170        followers.
+       
        [Twitter Handle](https://twitter.com/memesbot69)
+       
     - #### @StarPostBot
         This bot posts messages from #starpost channel in various discord server(s) (With their consent) to twitter. 
+        
         [Twitter Handle](https://twitter.com/StarPostBot)
 
 ## Important Links

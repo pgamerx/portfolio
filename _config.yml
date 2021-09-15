@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: PGamerX
 name: PGamerX
+github:
+  is_project_page: false

@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
-title: PGamerX
-name: PGamerX
+title: Hi, I am PGamerX..
+description: I am a self learning developer and this is my portfolio.
+show_downloads: false
 github:
   is_project_page: false

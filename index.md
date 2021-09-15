@@ -1,3 +1,7 @@
+---
+title: PGamerX - A Self learning Developer | Home Page
+---
+
 # PGamerX 
 ![Logo](https://pbs.twimg.com/profile_images/1429768657228365827/IBC2fwhQ.jpg)
 
